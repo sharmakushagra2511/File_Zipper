@@ -33,7 +33,3 @@ file>open>click zip>the zipped file will be created on the same folder
 file>open>click unzip>the unzipped file will be created on the same folder
 
 
-## Testing environment:
-
-I tested this project in:
-Linux Mint, OS X El Capitan (version 10.11.6)
